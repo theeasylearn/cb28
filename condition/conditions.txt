@@ -1,0 +1,118 @@
+// write a pro to check age of user 
+
+1] if desicion making statement
+2] if esle desicion making statement
+3] if else if ladder desicion making statement
+4] nested if desicion making statement
+5] ternary operators 
+
+6] switch case 
+
+
+relational operator
+----------------------------------
+< - less than
+> - greater than
+== - double equal to
+!= - not equal to
+<= - less than equal to
+>= greater than equal to 
+
+
+Logical operator
+----------------------------------
+&& - and 
+|| - or 
+
+a==b || c==d
+
+
+
+1] if desicion making statement
+-----------------------------------
+
+syntax
+
+if (condition)
+{
+     code 
+}
+
+if (100 < 20)
+{
+     //lines code 
+}
+...
+
+
+2] if else 
+
+if(condition)
+{
+     ..lines of code
+}
+else
+{
+     ..lines of code 
+}
+...
+
+
+3] else if ladder
+
+if(condition)
+{
+     ..lines of code
+}
+else if (condition)
+{
+     ..lines of code 
+}
+else if (condition)
+{
+     ..lines of code 
+}
+else if (condition)
+{
+     ..lines of code 
+}
+else if (condition)
+{
+     ..lines of code 
+}
+else
+{
+     ..lines of code 
+}
+
+
+4] nested if 
+
+if (condition) {
+    if (condition 2) {
+        code 
+    }
+    else { if needed
+
+    }
+}
+else {
+    if (condition 3) {
+        code 
+    }
+    else { if needed
+
+    }
+}
+...
+
+5] ternary operator : 
+
+    condition? true: false;
+
+switch case
+------------------------------
+
+
+
+

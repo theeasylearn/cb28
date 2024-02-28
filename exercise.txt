@@ -1,0 +1,12 @@
+condition statements
+
+check age
+positive negative
+check temperature
+check sum
+
+odd even
+
+leap year
+
+ 
