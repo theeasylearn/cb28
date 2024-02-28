@@ -1,15 +1,15 @@
-// write a pro to check age of user 
 
 1] if desicion making statement
 2] if esle desicion making statement
 3] if else if ladder desicion making statement
 4] nested if desicion making statement
+
 5] ternary operators 
 
 6] switch case 
 
 
-relational operator
+relational operator to check relation between two variables / nums / functions
 ----------------------------------
 < - less than
 > - greater than
@@ -24,7 +24,34 @@ Logical operator
 && - and 
 || - or 
 
-a==b || c==d
+&& -> and -> if all conditions are true / badhi conditions true hoy tyare
+
+|| -> or -> if any one condition is true / koy 1 condition true hoy to
+
+a==b || c==d -> a == b ro c == d 
+a==b && c==d -> a == b and c == d 
+
+TRUTHTABLE
+
+
+or - || 
+
+c 1       c 2       ans 
+  
+  t       t         t          
+  t       f         t         
+  f       t         t        
+  f       f         f        
+
+and - && 
+c 1       c 2       ans 
+  
+  t       t         t          
+  t       f         f         
+  f       t         f        
+  f       f         f        
+
+
 
 
 

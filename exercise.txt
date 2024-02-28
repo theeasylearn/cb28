@@ -1,12 +1,16 @@
-condition statements
-
-check age
-positive negative
-check temperature
-check sum
-
-odd even
-
 leap year
+check temperature
+
+///////////////////////////////////////////////////////////////
+
+28 - 2 - 24
+check sum ; sum is greater than 15 -> print "sum 15 which is greater than 10 " 
+sum is less than 15 -> print "sum is less than 10 which is also less than 15
+sum is negative -> sum is negative
+
+odd even -> take input from user and print "it is a odd number " if number is odd 
+print "it is a even number " if number is even 
+
+
 
  
