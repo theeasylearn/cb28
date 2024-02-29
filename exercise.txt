@@ -11,6 +11,10 @@ sum is negative -> sum is negative
 odd even -> take input from user and print "it is a odd number " if number is odd 
 print "it is a even number " if number is even 
 
+///////////////////////////////////////////////////////////////
 
-
+29 2 24
+odd even 
+check sum 
+check temperature
  
