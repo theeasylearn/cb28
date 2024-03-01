@@ -17,4 +17,13 @@ print "it is a even number " if number is even
 odd even 
 check sum 
 check temperature
+
+
+///////////////////////////////////////////////////////////////
+
+1 3 24
+
+calculate shipping charges based on user's distance 
+
+BMI 
  
