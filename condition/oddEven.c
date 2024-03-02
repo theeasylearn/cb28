@@ -9,11 +9,30 @@ void main() {
     // check 
     // int modulo = num % 2;
 
-    if (num % 2 == 0) {
-        printf("Even number ");
-    }
+    // if (num % 2 == 0) {
+    //     printf("Even number ");
+    // }
 
-    if (num % 2 != 0) {
+    // if (num % 2 != 0) {
+    //     printf("Odd number ");
+    // }
+
+    if (num == 0) {
+        printf("Zero is neither negative nor positve ");
+    }  
+    else if (num % 2 == 0) {
+        printf("Even number \n");
+        // printf("%d ", num % 2);
+    }
+    else if (num % 2 != 0) 
+    {
         printf("Odd number ");
     }
+      
+    else {
+        printf("invalid ");
+    }
+
+    // printf("\n %d ", 'a');
+    // printf("\n %d ", num);
 }

@@ -26,4 +26,19 @@ check temperature
 calculate shipping charges based on user's distance 
 
 BMI 
- 
+
+
+///////////////////////////////////////////////////////////////
+
+2 3 24
+    day in week
+
+    leap year
+
+    vowel
+
+    simple calculator
+
+    multiple of 5 or 3 -> "multiple of 5" : "multiple of 3"
+
+    

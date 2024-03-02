@@ -1,11 +1,17 @@
-check eligibility of candidate for a job based on their experience 
+else if 
 
-check if user's eligibily for a scholarship based on his pr 
+positive negative 
 
-check shap -> rectangle or square
+odd even 
 
+multiple of 5 or 3 -> "multiple of 5" : "multiple of 3"
 
-write a pro in c to determine whether a given number is a multiple of three or not 
+simple calculator
 
-calculate shipping charges based on user's distance 
-BMI 
+leap year
+
+vowel
+
+day in week
+
+	
