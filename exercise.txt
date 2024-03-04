@@ -42,3 +42,17 @@ BMI
     multiple of 5 or 3 -> "multiple of 5" : "multiple of 3"
 
     
+4 3 24
+
+        vowel 
+
+        age and nationality 					
+
+        print the range in which a number falls	
+            num = 2 -> range = 0 - 10		
+            num = 90 -> range = 90 - 100
+        
+        grade of student 
+
+
+
