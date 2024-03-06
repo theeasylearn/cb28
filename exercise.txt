@@ -54,5 +54,9 @@ BMI
         
         grade of student 
 
-
+6 3 24  
+    calculate scholarship 
+    greatest of three number using logical operators 
+    BMI2 
+    take er number of user and print his / her name using switch case 
 

@@ -19,7 +19,7 @@ void main()
 
     int subtraction;
 
-    if (operator == '+') {
+    if (operator == '+') { 
         printf("sum = %d \n", num1 + num2);
     }
     else if (operator == '-') {
@@ -31,5 +31,8 @@ void main()
     }
     else if (operator == '/') {
         printf("division = %.2f \n", (float)num1 / num2);
+    }
+    else {
+        
     }
 }
