@@ -60,3 +60,7 @@ BMI
     BMI2 
     take er number of user and print his / her name using switch case 
 
+7 3 24 
+    greatest of three nums using ternary 
+    vowel using ternary
+    ((4 > 3) || (4 < 2) || (5 < 2)) && (3 < 4) -> 
