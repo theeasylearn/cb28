@@ -68,3 +68,11 @@ BMI
 
 8 3 24 
     print "hello" n{input} times using while loop and for looping
+
+
+9 3 24  
+    100 to 1
+    n{input} to 1
+    sum of 1 to n
+    product of 1 to n 
+    10, 20, 30, ..., n 
