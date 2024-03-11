@@ -76,3 +76,7 @@ BMI
     sum of 1 to n
     product of 1 to n 
     10, 20, 30, ..., n 
+
+11 3 24  
+    1, 8, 27, 64, ... upto n terms 
+    fibonacci    2, 1, 3, 4, 7, 11, 18, 29, 47, 76, 123 ...  upto n terms
