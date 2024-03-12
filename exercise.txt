@@ -80,3 +80,6 @@ BMI
 11 3 24  
     1, 8, 27, 64, ... upto n terms 
     fibonacci    2, 1, 3, 4, 7, 11, 18, 29, 47, 76, 123 ...  upto n terms
+
+12 3 24  
+    polindrome 
