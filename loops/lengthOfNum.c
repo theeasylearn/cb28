@@ -16,7 +16,7 @@ void main()
         length++;
         num = num / 10;
     }
-    printf("%d ", length);
+    printf("length = %d ", length);
 }
 
 // len = 0

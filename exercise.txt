@@ -84,3 +84,9 @@ BMI
 12 3 24  
     polindrome 
     
+
+13 3 24  
+    sum of first n ODD number -> use continue 
+    sum of digit 
+    
+
