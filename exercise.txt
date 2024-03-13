@@ -88,5 +88,6 @@ BMI
 13 3 24  
     sum of first n ODD number -> use continue 
     sum of digit 
+    print a rectangle of n * m -> take n and m from user 
     
 
