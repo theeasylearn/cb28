@@ -90,8 +90,27 @@ BMI
     sum of digit 
     print a rectangle of n * m -> take n and m from user 
     
-14 3 24  
+
+15 3 24
     a a a a 
     2 2 2 2
     c c c c 
     4 4 4 4
+    
+    1 
+    1 1
+    1 0 1
+    1 0 0 1
+    1 0 0 0 1
+    1 0 0 0 0 1
+    1 1 1 1 1 1 1
+
+    a 
+    b b
+    c 1 c
+    d 1 2 d
+    e 1 2 3 e
+    f 1 2 3 4 f
+    g g g g g g g
+
+
