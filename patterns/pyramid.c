@@ -1,20 +1,55 @@
-#include<stdio.h>
-int main() {
+//         *    
+//        * *   
+//       *   *  
+//      *     * 
+//     *       *   
+//    *         *  
+//   *           * 
+//  *             *
+// * * * * * * * * *
 
-    for (int i = 1; i <= 9; i++) {
-        for (int j = 9; j > i; j--) {
-            printf(" ");
+#include<stdio.h>
+void main() {
+
+    
+
+    int i, j;
+    int h;
+    // printf("Enter height : ");
+    // scanf("%d", &h);
+
+    for (i = 1; i <= 6; i++) {
+        for (j = 6; j > i; j--) {
+            printf("  ");
         }
-        for (int j = 1; j <= i; j++) {
-            if (i == 1 || i == 9 || j == i || j == 1) {
-                printf("* ");
-            }
-            else {
+        for (j = 1; j <= i; j++) {
+            if (i == 1 || i == 6 || j == 1 || j == i) {
+                printf("* "); 
+            } else {
                 printf("  ");
             }
         }
+
+        printf("\n");
+    }
+        printf("\n");
+        printf("\n");
+    
+    for (i = 1; i <= 6; i++) {
+        for (j = 6; j > i; j--) {
+            printf(" ");
+        }
+        for (j = 1; j <= i; j++) {
+            if (i == 1 || j == i || j == 1 || i == 6) {
+                printf("* "); 
+            } else {
+                printf("  ");
+            }
+        }
+
         printf("\n");
     }
 
-    return 0;
+
+
 }
