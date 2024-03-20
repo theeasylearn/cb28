@@ -130,3 +130,6 @@ BMI
                                    * * *
                                  * * * *
                                 
+19 3 24
+        create a functions which return add, subtract, product and division of two numbers 
+        
