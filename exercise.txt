@@ -137,4 +137,7 @@ BMI
     create functions to get minimum of three nums 
     create a functions to print 100 to n {input} 
     create a functions which return add, subtract, product and division, min, max, modulo, remainder, ascii values of two numbers 
+
+23 3 24
+    nCr
     
