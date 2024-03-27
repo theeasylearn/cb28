@@ -140,3 +140,6 @@ BMI
 
 23 3 24
     nCr
+
+27 3 24
+    convert all pattern code into functions 

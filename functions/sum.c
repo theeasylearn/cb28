@@ -1,11 +1,14 @@
 #include<stdio.h>
 
-float sum (float n1, float n2) {
-    float add = n1 + n2;
+float add;
+float *addp = &add;
+
+void sum (float n1, float n2) {
+    *addp = n1 + n2;
     // printf("sum = %.f \n", add);
     
-    return add;
-
+    return;
+    
     printf("this is hadi here ");
 }
 
@@ -18,9 +21,9 @@ int main() {
     printf("Enter second number : ");
     scanf("%f", &num2);
 
-    float ans = sum (num1, num2);
+    sum (num1, num2);
 
-    printf("%.2f ", sum (num1, num2));
+    printf("%.2f ", *addp);
 
     return 0;
 }
