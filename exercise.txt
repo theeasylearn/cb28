@@ -142,4 +142,4 @@ BMI
     nCr
 
 27 3 24
-    convert all pattern code into functions 
+    convert all pattern code into functions and pointers
