@@ -143,3 +143,10 @@ BMI
 
 27 3 24
     convert all pattern code into functions and pointers
+
+28 3 24
+    using loop, 
+    create a array of size 10 which stores price of cars 
+        print all elements
+    create a array which stores grades of 10 students 
+        take input from user and print all elements 
