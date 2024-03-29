@@ -150,3 +150,8 @@ BMI
         print all elements
     create a array which stores grades of 10 students 
         take input from user and print all elements 
+
+29 3 24
+    product of elements
+    Find key
+    Number of elements greater than key
