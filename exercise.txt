@@ -153,5 +153,6 @@ BMI
 
 29 3 24
     product of elements
-    Find key
-    Number of elements greater than key
+
+30 3 24
+    all of 1d array -> 2d array
