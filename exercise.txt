@@ -1,34 +1,23 @@
-leap year
-check temperature
-
-///////////////////////////////////////////////////////////////
+27 - 2 - 24
+    leap year
+    check temperature
 
 28 - 2 - 24
-check sum ; sum is greater than 15 -> print "sum 15 which is greater than 10 " 
-sum is less than 15 -> print "sum is less than 10 which is also less than 15
-sum is negative -> sum is negative
+    check sum ; sum is greater than 15 -> print "sum 15 which is greater than 10 " 
+    sum is less than 15 -> print "sum is less than 10 which is also less than 15
+    sum is negative -> sum is negative
 
-odd even -> take input from user and print "it is a odd number " if number is odd 
-print "it is a even number " if number is even 
-
-///////////////////////////////////////////////////////////////
+    odd even -> take input from user and print "it is a odd number " if number is odd 
+    print "it is a even number " if number is even 
 
 29 2 24
-odd even 
-check sum 
-check temperature
-
-
-///////////////////////////////////////////////////////////////
+    odd even 
+    check sum 
+    check temperature
 
 1 3 24
-
-calculate shipping charges based on user's distance 
-
-BMI 
-
-
-///////////////////////////////////////////////////////////////
+    calculate shipping charges based on user's distance 
+    BMI 
 
 2 3 24
     day in week

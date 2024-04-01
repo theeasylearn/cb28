@@ -1,7 +1,3 @@
-// a a a a
-// b b b b
-// c c c c
-// d d d d
 
 #include <stdio.h>
 void main()
@@ -18,6 +14,10 @@ void main()
     //     printf("\n");
     // }
 
+// a a a a
+// b b b b
+// c c c c
+// d d d d
     for (int i = 1; i <= 3; i++)
     { // row
         for (int j = 1; j <= 7; j++)
