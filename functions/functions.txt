@@ -1,3 +1,5 @@
+hadi
+
 Functions in C language
 -----------------------------------
 what is function ?
