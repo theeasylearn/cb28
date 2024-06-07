@@ -20,7 +20,7 @@ Why we need function ?
 type of function
 -----------------------------------
 built in function / library function
-	-> Functions which are available in c language is called built in function or library function such as printf, scanf etc 
+	-> Functions which are avasdfasdfasdfasdfailable in c language is called built in function or library function such as printf, scanf etc 
 
 user defined function (UDF)
 	-> Functions created by us(developer) as per requirement is called user defined function.
